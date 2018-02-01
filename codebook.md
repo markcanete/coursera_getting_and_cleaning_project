@@ -1,4 +1,4 @@
-# Code book for Coursera Getting and Cleaning Data course project
+** Code book
 The data set that this code book pertains to is located in the tidyset.txt file of this repository.
 
 Kindly see the README.md file of this repository for the information about this data set.
